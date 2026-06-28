@@ -66,7 +66,7 @@ export default function App() {
           <div className="w-12 h-12 bg-indigo-100 rounded-2xl flex items-center justify-center text-2xl shadow-inner">
             🌈
           </div>
-          <h1 className="text-3xl font-black text-gray-800 tracking-tight">행복한 우리 반</h1>
+          <h1 className="text-3xl font-black text-gray-800 tracking-tight">마음출석부</h1>
         </div>
         <div className="bg-gray-50 px-8 py-3 rounded-2xl border border-gray-100 flex items-center gap-3">
           <i className="far fa-clock text-gray-400"></i>
